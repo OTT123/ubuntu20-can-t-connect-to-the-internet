@@ -30,4 +30,8 @@
 >>#### 1.网卡：Intel(R) WiFi 6E Ax211 160MHz
 >>#### 2.双系统：Windows11 + ubuntu20
 ## tips 为什么连接不到网络?
-ubuntu20自带linux内核为**5.13**,过于老旧，建议升级到**5.17**（亲测可行）
+ubuntu20自带linux内核为**5.13**,过于老旧，建议升级到**5.17**（亲测可行）。
+## step1 下载内核
+下载网址 https://kernel.ubuntu.com/~kernel-ppa/mainline/
+
+
