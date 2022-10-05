@@ -10,3 +10,14 @@
 
 其中"My DSL"是任意设定的网络名称
 ## step4
+输入 `set pppoe.username ISPUsername`
+
+其中ISPUsername是ISP账户名。作者输入了校园网账号。
+## step5
+输入 `set pppoe.password PASSWORD`
+
+其中PASSWORD是账号的密码。
+## step6
+输入 `save`,然后输入`yes`
+## step7
+在网络设置中可以找到名为My DSL的网络连接，点击连接。`
