@@ -45,7 +45,7 @@
 在下载好.deb的文件夹打开终端，输入 `sudo dpkg -i *.deb`
 
 ## step3 进入系统
-安装结束后，重启电脑，在ubuntu高级选项中可以看到自己安装的内核版本的ubuntu，回车进入。可以看到WiFi选项。
+安装结束后，重启电脑，在ubuntu高级选项中可以看到自己安装的内核版本的ubuntu，回车进入（作者还安装了其他版本）。可以看到WiFi选项。
 ![image](https://github.com/OTT123/ubuntu20-can-t-connect-to-the-internet/blob/main/img/pic2.png)
 
 
