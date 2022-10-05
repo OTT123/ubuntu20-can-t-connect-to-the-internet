@@ -34,8 +34,11 @@
 >### tips 为什么连接不到网络?
 >>#### ubuntu20自带linux内核为**5.13**,过于老旧，对于作者的网卡，至少要到5.14及以上。建议升级到**5.17**（亲测可行）。
 ## step1 下载内核
-下载网址 https://kernel.ubuntu.com/~kernel-ppa/mainline/
-点击后选择对应版本，作者选择5.17。作者cpu架构为amd64，故选择amd64，如下图。**注意一定要下载正确版本，否则无法安装**
+**下载网址 https://kernel.ubuntu.com/~kernel-ppa/mainline/**
+
+点击后选择对应版本，作者选择5.17。作者cpu架构为amd64，故选择amd64，如下图。
+
+**注意一定要下载正确版本，否则无法安装**
 
 ![image](https://github.com/OTT123/ubuntu20-can-t-connect-to-the-internet/blob/main/img/pic1.png)
 >### tips 下载什么内容？
@@ -45,7 +48,7 @@
 在下载好.deb的文件夹打开终端，输入 `sudo dpkg -i *.deb`
 
 ## step3 进入系统
-安装结束后，重启电脑，在ubuntu高级选项中可以看到自己安装的内核版本的ubuntu，回车进入（作者还安装了其他版本）。可以看到WiFi选项。
+安装结束后，重启电脑，在**ubuntu高级选项**中可以看到自己安装的内核版本的ubuntu，回车进入（作者还安装了其他版本）。可以看到WiFi选项。
 ![image](https://github.com/OTT123/ubuntu20-can-t-connect-to-the-internet/blob/main/img/pic2.png)
 
 
