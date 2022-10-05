@@ -34,6 +34,8 @@
 ubuntu20自带linux内核为**5.13**,过于老旧，建议升级到**5.17**（亲测可行）。
 ## step1 下载内核
 下载网址 https://kernel.ubuntu.com/~kernel-ppa/mainline/
+点击后选择对应版本，作者选择5.17。作者cpu架构为amd64，故选择amd64，如下图。**注意一定要下载正确版本，否则无法安装**
 
 ![image](https://github.com/OTT123/ubuntu20-can-t-connect-to-the-internet/blob/main/img/pic1.png)
-
+### tips： 下载什么内容？
+两个headers，一个image，一个modules，共四个。
