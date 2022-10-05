@@ -29,9 +29,10 @@
 >### 3.电脑是较先进的。作者的设备信息如下
 >>#### 1.网卡：Intel(R) WiFi 6E Ax211 160MHz
 >>#### 2.双系统：Windows11 + ubuntu20
+>>#### 3.cpu:12th Gen Intel(R) Core(TM) i7-12700H
 ## tips 为什么连接不到网络?
 ubuntu20自带linux内核为**5.13**,过于老旧，建议升级到**5.17**（亲测可行）。
 ## step1 下载内核
 下载网址 https://kernel.ubuntu.com/~kernel-ppa/mainline/
-
+！
 
