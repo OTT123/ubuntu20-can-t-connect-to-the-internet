@@ -34,5 +34,5 @@
 ubuntu20自带linux内核为**5.13**,过于老旧，建议升级到**5.17**（亲测可行）。
 ## step1 下载内核
 下载网址 https://kernel.ubuntu.com/~kernel-ppa/mainline/
-！
+！[image](https://github.com/OTT123/ubuntu20-can-t-connect-to-the-internet/blob/main/img/pic1.png)
 
