@@ -20,8 +20,14 @@
 ## step6
 输入 `save`,然后输入`yes`
 ## step7
-在网络设置中可以找到名为My DSL的网络连接，点击连接。`
+在网络设置中可以找到名为My DSL的网络连接，点击连接。
+
+## tips 如何卸载设置好的DSL/PPPoE?
+输入 `nmcli c show`, 罗列出你的网络。
+
+输入 `nmcli con delete MYDSL`, 其中MYDSL是你的网络名称。
 ***
+
 # 方法二：无线网连接
 ## step0 准备工作 
 >### 1.确保通过有线网连接到了网络
